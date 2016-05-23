@@ -1,0 +1,17 @@
+C:\Users\Dhrumil\Desktop\ChicagoCrime\ChicagoCrime\bin\Debug\ChicagoCrime.exe.config
+C:\Users\Dhrumil\Desktop\ChicagoCrime\ChicagoCrime\bin\Debug\ChicagoCrime.exe
+C:\Users\Dhrumil\Desktop\ChicagoCrime\ChicagoCrime\bin\Debug\ChicagoCrime.pdb
+C:\Users\Dhrumil\Desktop\ChicagoCrime\ChicagoCrime\bin\Debug\FSharp.Charting.dll
+C:\Users\Dhrumil\Desktop\ChicagoCrime\ChicagoCrime\bin\Debug\FSharp.Core.dll
+C:\Users\Dhrumil\Desktop\ChicagoCrime\ChicagoCrime\bin\Debug\FSLib.dll
+C:\Users\Dhrumil\Desktop\ChicagoCrime\ChicagoCrime\bin\Debug\FSLib.pdb
+C:\Users\Dhrumil\Desktop\ChicagoCrime\ChicagoCrime\bin\Debug\FSLib.xml
+C:\Users\Dhrumil\Desktop\ChicagoCrime\ChicagoCrime\bin\Debug\FSharp.Charting.pdb
+C:\Users\Dhrumil\Desktop\ChicagoCrime\ChicagoCrime\bin\Debug\FSharp.Charting.xml
+C:\Users\Dhrumil\Desktop\ChicagoCrime\ChicagoCrime\bin\Debug\FSharp.Core.xml
+C:\Users\Dhrumil\Desktop\ChicagoCrime\ChicagoCrime\obj\Debug\ChicagoCrime.csprojResolveAssemblyReference.cache
+C:\Users\Dhrumil\Desktop\ChicagoCrime\ChicagoCrime\obj\Debug\ChicagoCrime.Form1.resources
+C:\Users\Dhrumil\Desktop\ChicagoCrime\ChicagoCrime\obj\Debug\ChicagoCrime.Properties.Resources.resources
+C:\Users\Dhrumil\Desktop\ChicagoCrime\ChicagoCrime\obj\Debug\ChicagoCrime.csproj.GenerateResource.Cache
+C:\Users\Dhrumil\Desktop\ChicagoCrime\ChicagoCrime\obj\Debug\ChicagoCrime.exe
+C:\Users\Dhrumil\Desktop\ChicagoCrime\ChicagoCrime\obj\Debug\ChicagoCrime.pdb
